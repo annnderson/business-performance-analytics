@@ -14,7 +14,6 @@ O projeto cobre desde a modelagem do banco, carga de dados, criação de KPIs, a
 
 <img width="1532" height="847" alt="Captura de tela 2026-01-22 181811" src="https://github.com/user-attachments/assets/194cc1f3-610c-421f-b6b6-8a6dcf3fceca" />
 
-![Modelo de Dados](assets/modelo_dados.png)
 lINK DO DASHBOARD: https://app.powerbi.com/view?r=eyJrIjoiMmFkZmRiMDQtZGVmOC00MjBjLTliMGYtYTlmMDA1N2NhODEyIiwidCI6ImQ2MmVkZjk4LTJkNmYtNDBhOS05YTJhLWEwNmE4MmFlOTdlYyJ9
 
 ---
